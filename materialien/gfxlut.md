@@ -2,17 +2,17 @@
 
 ### Sofern nicht anders deklariert sind pro Kategorie
 
-**Römer x0**
+*ömer x0
 
-**Wikinger x1**
+Wikinger x1
 
-**Maya x2**
+Maya x2
 
-**Dunkles Volk x3**
+Dunkles Volk x3
 
-**Troja x4**
+Troja x4
 
-### X-m sind Masken für Spielerfarbe
+X-m sind Masken für die Spielerfarbe
 
 ## Gebäude
 
