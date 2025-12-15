@@ -89,6 +89,6 @@
 
 ![Original-Logo](../.gitbook/assets/UI/panel_Logo1.png)
 
-#### Logo mit verbesserter Sichtbarkeit (z.B. für Thumbnails)
+#### Logo mit verbesserter Lesbarkeit (z.B. für Thumbnails)
 
 ![Original-Logo](../.gitbook/assets/UI/panel_Logo2.png)

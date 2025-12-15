@@ -64,3 +64,4 @@ Hier soll das ganze Wissen, dass über die letzten Jahre zutage gefördert wurde
 
 ### 2D Ressourcen
 * [GUI-Materialien](materialien/uimaterialien.md)
+* [Grafikdateien Lookup Table](materialien/gfxlut.md)
