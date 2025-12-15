@@ -2,6 +2,13 @@
 
 ### Symbole
 
+#### Völker
+
+![Römer](../.gitbook/assets/UI/römer.png)
+![Maya](../.gitbook/assets/UI/maya.png)
+![Wiki](../.gitbook/assets/UI/wiki.png)
+![Trojaner](../.gitbook/assets/UI/troja.png)
+
 #### Haken
 
 ![Haken](../.gitbook/assets/UI/haken.png)
