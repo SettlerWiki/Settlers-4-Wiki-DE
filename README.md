@@ -2,7 +2,7 @@
 
 Hier soll das ganze Wissen, dass über die letzten Jahre zutage gefördert wurde, gesammelt und aktuell gehalten werden. Ebenso wird eine englische Übersetzung angestrebt, sodass auch nicht-deutsche Spieler von diesem Wissen profitieren können.
 
-## Table of contents
+## Inhaltsverzeichnis
 
 ### Grundlagen
 
@@ -61,3 +61,6 @@ Hier soll das ganze Wissen, dass über die letzten Jahre zutage gefördert wurde
 * [Nahrungsindustrie](produktionsverhaeltnisse/nahrungsindustrie.md)
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
 * [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
+
+### 2D Ressourcen
+* [GUI-Materialien](materialien/uimaterialien.md)
