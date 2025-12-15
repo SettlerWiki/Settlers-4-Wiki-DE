@@ -2,7 +2,7 @@
 
 ### Sofern nicht anders deklariert sind pro Kategorie
 
-*ömer x0
+Römer x0
 
 Wikinger x1
 
