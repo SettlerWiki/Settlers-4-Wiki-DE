@@ -1,5 +1,5 @@
 # Inhalt der 0.snd
-| SoundID | Offset dez | Offset hex | Offset hex(LE) | OffsetToNext dez | OffsetToNext hex | Kategorie | Inhalt | Bits/Sample | Abtastrate | Kanäle |
+| SoundID | Offset (de)z | Offset (hex) | Offset (hex(LE)) | Offset ToNext (dez) | Offset ToNext (hex) | Kategorie | Inhalt | Bits/Sample | Abtastrate | Kanäle |
 | ------- | ---------- | ---------- | -------------- | ---------------- | ---------------- | --------- | ------ | ----------- | ---------- | ------ |
 | 000 | 0        | 00000000 | 00000000 | 28     | 1C     | Header         |               |    |          |        |
 | 001 | 28       | 0000001C | 1C000000 | 6540   | 198C   | Ambient        | Flugtiere     | 16 | 22050 Hz | Mono   |
