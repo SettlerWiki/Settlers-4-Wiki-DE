@@ -62,6 +62,7 @@ Hier soll das ganze Wissen, dass über die letzten Jahre zutage gefördert wurde
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
 * [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
 
-### 2D Ressourcen
+### 2D/Sound Ressourcen
 * [GUI-Materialien](materialien/uimaterialien.md)
 * [Grafikdateien Lookup Table](materialien/gfxlut.md)
+* [Sounddatei Lookup Table](materialien/snd.md)
