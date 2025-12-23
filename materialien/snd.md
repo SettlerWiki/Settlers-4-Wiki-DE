@@ -1,4 +1,8 @@
 # Inhalt der 0.snd
+
+![Excel File](../materialien/snd.xlsx)
+![CSV File](../materialien/snd.csv)
+
 | SoundID | Offset (de)z | Offset (hex) | Offset (hex(LE)) | Offset ToNext (dez) | Offset ToNext (hex) | Kategorie | Inhalt | Bits/Sample | Abtastrate | Kanäle |
 | ------- | ---------- | ---------- | -------------- | ---------------- | ---------------- | --------- | ------ | ----------- | ---------- | ------ |
 | 000 | 0        | 00000000 | 00000000 | 28     | 1C     | Header         |               |    |          |        |

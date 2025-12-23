@@ -9,9 +9,7 @@
 * [Arbeitsradius](grundlagen/arbeitsradius.md)
 * [Terrain und Straßen](grundlagen/terrain-und-strassen.md)
 
-## Einheiten
-
-### Kampf
+## Einheiten - Kampf
 
 * [Schwertkämpfer](einheiten/schwertkaempfer.md)
 * [Bogenschütze](einheiten/bogenschuetze.md)
@@ -22,7 +20,7 @@
 * [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
 * [Priester](einheiten/priester.md)
 
-### Zivil
+## Einheiten - Zivil
 
 * [Gärtner](einheiten/gaertner.md)
 * [Geologe](einheiten/geologe.md)
