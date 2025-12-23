@@ -9,7 +9,7 @@
 * [Arbeitsradius](grundlagen/arbeitsradius.md)
 * [Terrain und Straßen](grundlagen/terrain-und-strassen.md)
 
-## Einheiten
+## Einheiten - Kampf
 
 * [Schwertkämpfer](einheiten/schwertkaempfer.md)
 * [Bogenschütze](einheiten/bogenschuetze.md)
@@ -19,6 +19,9 @@
 * [Blasrohrschütze](einheiten/blasrohrschuetze.md)
 * [Rucksackkatapultist](einheiten/rucksackkatapultist.md)
 * [Priester](einheiten/priester.md)
+
+## Einheiten - Zivil
+
 * [Gärtner](einheiten/gaertner.md)
 * [Geologe](einheiten/geologe.md)
 * [Dieb](einheiten/dieb.md)
@@ -54,3 +57,8 @@
 * [Nahrungsindustrie](produktionsverhaeltnisse/nahrungsindustrie.md)
 * [Ticks/Ressource](produktionsverhaeltnisse/ticks-ressource.md)
 * [Ressource pro Minute](produktionsverhaeltnisse/ressource-pro-minute.md)
+
+## 2D/Sound Ressourcen
+* [GUI-Materialien](materialien/uimaterialien.md)
+* [Grafikdateien Lookup Table](materialien/gfxlut.md)
+* [Sounddatei Lookup Table](materialien/snd.md)
