@@ -17,11 +17,11 @@
 | Name | Id |
 | ---  | -- |
 | Hauptmenu        | 0   |
+| Spielericons     | 1   |
+| Welt-UI          | 7   |
 | Menü Missions CD | 18  |
 | Menü Addon       | 28  |
 | Menu Neue Welt   | 40  |
-| Spielericons     | 1   |
-| Welt-UI          | 7   |
 | HD Patch UI      | 100 |
 
 ## Welt
