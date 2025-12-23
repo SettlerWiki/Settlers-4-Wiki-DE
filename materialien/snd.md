@@ -1,7 +1,6 @@
 # Inhalt der 0.snd
 
-![Excel File](../materialien/snd.xlsx)
-![CSV File](../materialien/snd.csv)
+Im Repo befinden sich auch ein `snd.xlsx` und ein `snd.csv` file.
 
 | SoundID | Offset (de)z | Offset (hex) | Offset (hex(LE)) | Offset ToNext (dez) | Offset ToNext (hex) | Kategorie | Inhalt | Bits/Sample | Abtastrate | Kanäle |
 | ------- | ---------- | ---------- | -------------- | ---------------- | ---------------- | --------- | ------ | ----------- | ---------- | ------ |
