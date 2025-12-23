@@ -1,69 +1,38 @@
 # Grafikdateien Lookup Table
 
-### Sofern nicht anders deklariert sind pro Kategorie
+## Völker
 
-Römer x0
+| Volk         | UI  | Gebäude | Einheiten | Fahrzeuge |
+| ---          | --  | ------  | --------- | --------  |
+| Römer        | 9   | 10      | 20        | 30        |
+| Wikinger     | 19  | 11      | 21        | 31        |
+| Maya         | 29  | 12      | 22        | 32        |
+| Dunkles Volk | N/A | 13      | 23        | N/A       |
+| Troja        | 39  | 14      | 24        | 34        |
 
-Wikinger x1
-
-Maya x2
-
-Dunkles Volk x3
-
-Troja x4
-
-X-m sind Masken für die Spielerfarbe
-
-## Gebäude
-
-10-14
+> Alle Texturenpacks im HD Patch mit "-m" sind Masken für die Spielerfarbe
 
 ## UI
 
-0 = Main
+| Name | Id |
+| ---  | -- |
+| Hauptmenu        | 0   |
+| Menü Missions CD | 18  |
+| Menü Addon       | 28  |
+| Menu Neue Welt   | 40  |
+| Spielericons     | 1   |
+| Welt-UI          | 7   |
+| HD Patch UI      | 100 |
 
-1 = Icons
+## Welt
 
-7 = Ingame
-
-9 = Römer Ingame
-
-18 = Menü Mission CD
-
-19 = Wikinger Ingame
-
-28 = Menü von Addon
-
-29 = Maya Ingame
-
-39 = Trojaner Ingame
-
-40 = Neue Welt, Große Feldzüge
-
-100 = Zusätzlich
-
-## Siedler
-
-20-24
-
-## Fahrzeuge
-
-30-32, 34
-
-## Rest
-
-2 = Terrain
-
-3 = Warenstapel
-
-4 = Effekte 1 (Auch Magie)
-
-5 = Natur, Spezielle/Easteregg Gebäude, Bau-Steine, Map Deko, DV-Bodeneffekt
-
-6 = Effekte 2 (Auch Magie)
-
-8 = Tiere
-
-36 = Magie 1
-
-37 = Magie 2
+| Name | Id |
+| ---  | -- |
+| Terrain | 2  |
+| Warenstapel | 3  |
+| Effekte 1 (Auch Magie) | 4  |
+| Natur, Spezielle/Easteregg Gebäude, Bau-Steine, Map Deko, DV-Bodeneffekt | 5  |
+| Effekte 2 (Auch Magie) | 6  |
+| Tiere | 8  |
+| Magie 1 | 36 |
+| Magie 2 | 37 |
